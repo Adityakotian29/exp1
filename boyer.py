@@ -23,6 +23,7 @@ s = 'iamnotgay'
 t = 'gay'
 print(last_occurrence(t))    
 print(booyer(s,t))
+print("changed")
 
   
 
